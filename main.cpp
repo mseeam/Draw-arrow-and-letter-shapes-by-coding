@@ -32,6 +32,9 @@ int main(){
                 }
             }
             cout<<endl;
+            
+            
+            
         }
         
         }else if (options1=='b'){
